@@ -26,6 +26,8 @@ Listener stateUpdateHandler: waiting(POSIXErrorCode: Network is down)
 Listener stateUpdateHandler: failed(POSIXErrorCode: Address already in use)
 ```
 
+--- 
+
 It happens on iPhone 6 iOS 12.4.1, iPhone Xs Max iOS 13.3, iPhone 11 Pro iOS 13.5.1
 
 but NOT on iPhone 7 Plus iOS 12.1.4, iPhone 11 iOS 13.5.1.
