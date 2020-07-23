@@ -11,7 +11,7 @@ Listener stateUpdateHandler: ready
 "Connection stateUpdateHandler: ready"
 "Connection: start receiving ✅"
 ```
-2. Open terminal and type: `nc 10.0.1.3(your_device_ip_address) 5000`(port to connect)
+2. Open terminal and type: `nc 10.0.1.3(your_device_ip_address) 5000`(port to connect) use 5000, since it's hardcoded in application
 3. Press STOP, you should see: *(Inbound connection should be close at this point)*
 ```
 Listener stateUpdateHandler: cancelled
