@@ -6,7 +6,7 @@ Step to reproduce:
 ```
 Listener stateUpdateHandler: waiting(POSIXErrorCode: Network is down)
 Listener stateUpdateHandler: ready
-"📞 New connection: 10.0.1.5s:52052 establish"
+"📞 New connection: 10.0.1.5:52052 establish"
 "Connection stateUpdateHandler: preparing"
 "Connection stateUpdateHandler: ready"
 "Connection: start receiving ✅"
